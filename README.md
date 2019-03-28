@@ -7,13 +7,7 @@ This is a repo that holds information about the intersection between bayesian st
 - Bayes - General
   - Hierarchical Models
   
-- Probabilistic Programming Languages
-  - PyMC3
-  - JAGS
-  - STAN
-  - Pyro
-  - Tensorflow Probability
-  
+- [Probabilistic Programming Languages](/ppls)
 - Bayes ML
 - Bayes DL
   
